@@ -1,0 +1,1 @@
+jupyter nbconvert --to slides ./gpt.ipynb --post serve --SlidesExporter.reveal_scroll=True
